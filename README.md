@@ -1,5 +1,5 @@
 # CERTIFICATION
-Get Resources for CRTP/OSCP etc...
+Collected best repository and resources for CRTP/OSCP etc...
 
 **OSCP Certificate:**
 
