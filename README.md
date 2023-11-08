@@ -15,7 +15,7 @@ Collected best repository and resources for CRTP/OSCP etc...
 
 | S.N | Description  |
 | --- | ------------ |
-| 1   | [CRTE](CRTP) |
+| 1   | [CRTE](CRTE) |
 |     |              |
 
 **OSCP Certificate:**
